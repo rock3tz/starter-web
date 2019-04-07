@@ -12,4 +12,4 @@ Dumb stuff added
 
 ## Copyright
 
-2019 @ Luis Amador
+2019 @ Luis Amador. All rights reserved.
