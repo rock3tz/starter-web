@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Some other stuff
 
-Dumb stuff
+Dumb stuff added
 
 ## Copyright
 
